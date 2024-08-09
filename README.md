@@ -42,6 +42,3 @@ When the task is completed, you have written the corresponding tests, and they a
 Make sure you are practicing test driven development by writing integration and unit tests for all your methods after you have written them.
 
 There is less information in these instructions, you might need to do a bit of research and ask questions but this is great practice as a large part of the job as a developer is research.
-
-## Sections
-* [Tasks](Tasks.md)
